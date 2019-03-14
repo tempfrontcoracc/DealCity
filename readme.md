@@ -1,5 +1,6 @@
 [Header](#header)  
 [Главная страница](#main-page)  
+[Товары и услуги](#stores-and-goods)
 
 <br/><br/>
 
@@ -67,7 +68,7 @@ height: 46px
 Содержание между брейкпоинтами @~768px и @~576px нужно сделать «резиновым», сохраняя отступы только в 30px.
 
 
-## <a name="goods-and-stores"></a> Товары и услуги
+## <a name="stores-and-goods"></a> Товары и услуги
 
 ### На больших экранах
 
@@ -98,7 +99,12 @@ font-size кэшбэка — 14px.
 <br/>
 <pre>
 .item__intro  
-    padding: 0  // Только для list-view
+padding: 0  // Только для list-view
 </pre>
 <br/>
 font-size: 15px для названия услуги.
+<br/>
+
+### На мобильных устройствах
+
+![](https://i.imgur.com/yWt1M2F.png)
