@@ -95,10 +95,10 @@ font-size кэшбэка — 14px.
     height: auto  
 </pre>
 Корректно поместит изображение в блоке.  
-<br/><br/>
+<br/>
 <pre>
 .item__intro  
-    padding: 0 (только для list-view)
+    padding: 0  // Только для list-view
 </pre>
-
+<br/>
 font-size: 15px для названия услуги.
